@@ -1,4 +1,4 @@
-<p align="center"> # Hi 👋, I'm Aaliyah Merchant </p>
+# <p align="center"> Hi 👋, I'm Aaliyah Merchant </p>
 
 ### Connect with me:
 <a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/aaliyahmerchant/)">
