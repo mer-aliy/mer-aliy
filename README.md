@@ -1,7 +1,9 @@
 # Hi 👋, I'm Aaliyah Merchant
 
 ## Connect with me:
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aaliyahmerchant)
+<a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/aaliyahmerchant/)">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
 
 
 
