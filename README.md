@@ -1,10 +1,11 @@
 # <p align="center"> Hi 👋, I'm Aaliyah Merchant </p>
 
-### Connect with me:
+### Connect with me
 <a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/aaliyahmerchant/)">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
+### GitHub stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Aaliyah&layout=compact&theme=transparent)
 <!--
 **mer-aliy/mer-aliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
