@@ -2,7 +2,7 @@
 
 ### Connect with me:
 <a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/aaliyahmerchant/)">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Aaliyah&layout=compact&theme=transparent)
