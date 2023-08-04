@@ -7,6 +7,8 @@
 
 ### GitHub Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Aaliyah&layout=compact&theme=transparent)
+
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Aaliyah&theme=transparent&utcOffset=0
 <!--
 **mer-aliy/mer-aliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
