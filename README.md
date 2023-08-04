@@ -1,6 +1,6 @@
 # <p align="center"> Hi 👋, I'm Aaliyah Merchant </p>
 
-### Connect With Me
+### Connect With Me 💻
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaliyahmerchant/)  &nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/M-Aaliyah)
 
