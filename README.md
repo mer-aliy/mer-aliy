@@ -1,9 +1,7 @@
 # <p align="center"> Hi 👋, I'm Aaliyah Merchant </p>
 
 ### Connect With Me
-<a href="[https://www.linkedin.com/in/aaliyahmerchant/](https://www.linkedin.com/in/aaliyahmerchant/)">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
+<a href=“www.linkedin.com/in/aaliyahmerchant”><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/></a>
 
 ### GitHub Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Aaliyah&layout=compact&theme=transparent)
