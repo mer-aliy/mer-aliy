@@ -4,9 +4,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaliyahmerchant/)  &nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/M-Aaliyah)
 
-### GitHub Stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Aaliyah&layout=compact&theme=transparent)
-
 <!--
 **mer-aliy/mer-aliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
