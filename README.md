@@ -7,7 +7,7 @@
 ### Languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,scala,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,scala,html,css,js,kotlin" />
   </a>
 </p>
 
