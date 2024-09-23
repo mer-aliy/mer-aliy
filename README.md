@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aaliyah
 
-## Languages & Skills
+## Programming Languages & Skills
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp,scala,html,css,js,kotlin,haskell" />
