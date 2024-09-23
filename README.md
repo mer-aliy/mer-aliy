@@ -1,15 +1,15 @@
-# <p align="center"> Hi 👋, I'm Aaliyah Merchant </p>
+# Hi 👋, I'm Aaliyah
 
-### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaliyahmerchant/)  &nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/M-Aaliyah)
-
-### Languages:
+## Languages & Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,scala,html,css,js,kotlin" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,scala,html,css,js,kotlin,haskell" />
   </a>
 </p>
+
+## Connect with me
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaliyahmerchant/)  &nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/M-Aaliyah)
 
 <!--
 **mer-aliy/mer-aliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
