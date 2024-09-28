@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aaliyah
+# Hi, I'm Aaliyah 👋
 
 ## Programming Languages & Skills
 <p align="left">
